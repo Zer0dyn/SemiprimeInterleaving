@@ -1,7 +1,7 @@
-name = "RiemannGold"
+name = ""
 version = "0.1.0"
 keywords = ["math"]
-defaultTargets = ["RiemannGold"]
+defaultTargets = [""]
 
 [leanOptions]
 pp.unicode.fun = true # pretty-prints `fun a ↦ b`
